@@ -1,0 +1,12 @@
+{
+    "name": "Guy #06",
+    "symbol": "GNF",
+    "description": "Collection of 6 guys on the blockchain. This is the number 1/6.",
+    "seller_fee_basis_points": 250,
+    "image": "5.gif",
+    "properties": {
+        "creators": [{"address": "DEV8SPkziwWAxMVRGGLi8myx8MbQWj8BURk5m38vBePL", "share": 100}],
+        "files": [{"uri": "5.gif", "type": "image/gif"}]
+    },
+    "collection": {"name": "Guy #06", "family": "Guys"}
+}
